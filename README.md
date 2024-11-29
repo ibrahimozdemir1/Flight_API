@@ -8,3 +8,6 @@ For the project introduction video, click [here](https://youtu.be/_nOcCz2TUEU).
 
 ## Project Design Assumptions and Addressed Issues
 For the project design assumptions and addressed issues, click [here](https://drive.google.com/file/d/1BiuEP-EtRXlxJcnPH9wjX-HkfuJJhz8h/view?usp=sharing).
+
+## Project ER Diagram
+For the project's ER diagram, click [here](https://drive.google.com/file/d/1HFxQUgCJ0KpIDrSv2kVb1DMsx5sHDhcA/view?usp=sharing).
